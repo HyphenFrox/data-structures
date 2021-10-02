@@ -1,0 +1,16 @@
+{
+  "name": "data-structures",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "nodemon": "npx nodemon index.js --inspect",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hyphen Frox",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
